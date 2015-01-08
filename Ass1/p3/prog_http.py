@@ -17,5 +17,5 @@ def geocode(address):
     print(reply['results'][0]['geometry']['location'])
 
 if __name__ == '__main__':
-    geocode('10726 106ave, grande prairie, AB, Can')
+    geocode('10726 106ave, grande prairie, AB, CA')
 

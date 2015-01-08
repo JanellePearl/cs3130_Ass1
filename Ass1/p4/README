@@ -1,5 +1,8 @@
 Janelle Montgomery-4383646
 CS3130
 Assignment 1
-Part 3
+Part 4
 
+This program also gives the user thier location, just more indepth. It will include the adress in detail include long name, short name and types. It will also give the longitude and latitude of the users location. Including the northeast and southwest coordinates.
+
+Bugs: Once again Can needed to be changed to CA in order to run properly.

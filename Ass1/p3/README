@@ -2,3 +2,7 @@ Janelle Montgomery-4383646
 CS3130
 Assignment 1
 Part 3
+
+This program is set up to give the users location. It will print the longitude and latitude respectively. 
+Bugs: The program required a name change as http was a directory it was trying to access thus causing a problem.
+Also in Grande Praire, Ab, Can. Can was required to be changed to CA.
